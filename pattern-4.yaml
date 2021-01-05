@@ -1,6 +1,6 @@
 ---
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Pattern 1 - Private and Public subnets'
+Description: 'Pattern 4 - DMZ, Private and Public subnets'
 
 Parameters:
 
